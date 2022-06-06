@@ -15,7 +15,7 @@ You are going to write a program that automatically prints the solution to the F
 e.g. it might start off like this:
 
 ```
-`1
+1
 2
 Fizz
 4
