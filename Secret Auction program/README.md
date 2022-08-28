@@ -1,7 +1,7 @@
 # Secret Auction program
 ## Instruction
 Ask user for their name and bid value without showing details of other users after every user entered there details show winner of bid with name and bid value.
-### Example
+### Example:
 <pre>
 What is your name?:jatin
 What is your bid?:6500    
