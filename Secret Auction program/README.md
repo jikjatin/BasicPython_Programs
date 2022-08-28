@@ -7,7 +7,7 @@ What is your bid?:6500
 Are there any other bidders? Type 'yes' or 'no':yes
 (clear screen)
 
-What is your name?:rajput
+What is your name?:rajput</br>
 What is your bid?:8800
 Are there any other bidders? Type 'yes' or 'no':yes
 (clear screen)
