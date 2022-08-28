@@ -5,7 +5,7 @@ print("Welcome to the secret aution program")
 bidders={}
 highest=0
 def aution():
-  bidders[int(input("What is your bid?:"))]=input("What is your name?:")
+  bidders[int(input("What is your bid?:"))]=input("What is your name?:") #dictionary key-value pair
   cont=input("Are there any other bidders? Type 'yes' or 'no':").lower()
   os.system('clear')
   if cont=="yes":
