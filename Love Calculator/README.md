@@ -51,7 +51,7 @@ Love Score = 53
 
 Print: "Your score is 53."
 
-# Example Input 1
+## Example Input 1
 
 ```
 name1 = "Kanye West"
@@ -61,13 +61,13 @@ name1 = "Kanye West"
 name2 = "Kim Kardashian"
 ```
 
-# Example Output 1
+## Example Output 1
 
 ```
 Your score is 42, you are alright together.
 ```
 
-# Example Input 2
+## Example Input 2
 
 ```
 name1 = "Brad Pitt"
@@ -77,7 +77,7 @@ name1 = "Brad Pitt"
 name2 = "Jennifer Aniston"
 ```
 
-# Example Output 2
+## Example Output 3
 
 ```
 Your score is 73.
@@ -94,7 +94,7 @@ The testing code will check for print output that is formatted like one of the l
 "Your score is 54."
 ```
 
-# Hint
+## Hint
 
 1. The `lower()` function changes all the letters in a string to lower case. 
 
@@ -104,7 +104,7 @@ The testing code will check for print output that is formatted like one of the l
 
 [https://stackoverflow.com/questions/1155617/count-the-number-occurrences-of-a-character-in-a-string](https://stackoverflow.com/questions/1155617/count-the-number-occurrences-of-a-character-in-a-string)
 
-# Test Your Code
+## Test Your Code
 
 Before checking the solution, try copy-pasting your code into this repl: 
 
@@ -116,6 +116,6 @@ This repl includes my testing code that will check if your code meets this assig
 
 
 
-# Solution
+## Solution
 
 [https://repl.it/@appbrewery/day-3-5-solution](https://repl.it/@appbrewery/day-3-5-solution)
