@@ -17,7 +17,7 @@ v=low_name.count('v')
 e=low_name.count('e')
 sum1=t+r+u+e
 sum2=l+o+v+e
-res=sum1*10+sum2 #or sum=int(sum1+sum2)
+res=sum1*10+sum2 #or sum=str(sum1+sum2)
 if res<10 or res>90:
  print(f"Your score is {res}, you go together like coke and mentos.")
 elif res>40 and res<50:  
