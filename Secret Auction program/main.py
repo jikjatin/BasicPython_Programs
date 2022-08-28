@@ -1,6 +1,5 @@
-from replit import clear
+import os
 from art import logo
-#HINT: You can call clear() to clear the output in the console.
 print(logo)
 print("Welcome to the secret aution program")
 bidders={}
@@ -8,7 +7,7 @@ highest=0
 def aution():
   bidders[int(input("What is your bid?:"))]=input("What is your name?:")
   cont=input("Are there any other bidders? Type 'yes' or 'no':").lower()
-  clear()
+  os.system('clear')
   if cont=="yes":
     aution()
   
